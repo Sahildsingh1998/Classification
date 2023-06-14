@@ -55,7 +55,7 @@ Model Evaluation.
 5. Random Forest with Hyperparameter Tuning
 6. Support vector Classification
 
-**Conclusiom**
+**Conclusion**
 
 The data modeled was quite successful in predicting the recommendation of a arline by the traveller. The accuracy was as high as 94% in case of decision tree algorithm while in case of the random forest classification algorithm the accuracy was 2nd best i.e 93.12. Hence, the chossen variables for the data are quiet well to predict the target varible.
 
